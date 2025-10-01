@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/GruneEule/.github/blob/6ef6a45bb2ec84aba369c8bc52771f37fc0dadf9/GE-Symbol-Round_Orange_on_Green.png?raw=true" alt="GrüneEule Logo" width="200"/>
+  <img src="https://cdn.grueneeule.de/img/jobs/Owner.png" alt="GrüneEule Logo" width="1000"/>
 </p>
 
 # **GrüneEule**
