@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://cdn.grueneeule.de/img/jobs/Owner.png" alt="GrüneEule Logo" width="1000"/>
-</p>
+## The project ended on December 31, 2025.
 
 # **GrüneEule**
 
